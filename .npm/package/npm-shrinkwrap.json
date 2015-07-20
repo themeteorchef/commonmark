@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "commonmark": {
+      "version": "0.21.0",
+      "dependencies": {
+        "entities": {
+          "version": "1.1.1"
+        },
+        "mdurl": {
+          "version": "1.0.0"
+        },
+        "string.prototype.repeat": {
+          "version": "0.2.0"
+        }
+      }
+    }
+  }
+}
