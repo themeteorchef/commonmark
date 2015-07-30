@@ -1,7 +1,7 @@
 Package.describe({
   name: 'themeteorchef:commonmark',
   version: '1.1.0',
-  summary: 'CommonMark.js Markdown parser and helper function for converting Markdown to HTML on the client and server.',
+  summary: 'CommonMark.js and helper function for converting Markdown to HTML on the client and server.',
   git: 'http://github.com/themeteorchef/commonmark',
   documentation: 'README.md'
 });
